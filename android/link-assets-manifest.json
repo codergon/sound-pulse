@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/NeueMontreal/NeueMontreal-Bold.otf",
+      "sha1": "8a9ff2b61316994234dae5eaaaa2b99de1b29205"
+    },
+    {
+      "path": "src/assets/fonts/NeueMontreal/NeueMontreal-Light.otf",
+      "sha1": "5177d0022e6ebb29eeb5afa31a81e10916f42c82"
+    },
+    {
+      "path": "src/assets/fonts/NeueMontreal/NeueMontreal-Medium.otf",
+      "sha1": "a1fde8e729ce0e78511dc692c8390836db6b8d92"
+    },
+    {
+      "path": "src/assets/fonts/NeueMontreal/NeueMontreal-Regular.otf",
+      "sha1": "864b3c35552d8c45b0a4467d8262a111f103f015"
+    },
+    {
+      "path": "src/assets/images/avatar.png",
+      "sha1": "67e10296e4420525305d57e975c9a15f3ca4382e"
+    },
+    {
+      "path": "src/assets/images/icon.png",
+      "sha1": "6ad46c2fcffdbaa404582320271e480d0537bf5a"
+    },
+    {
+      "path": "src/assets/images/splash.png",
+      "sha1": "235b59dccdcecb5684fad0e4747548ef9d205308"
+    },
+    {
+      "path": "src/assets/lotties/pulse.json",
+      "sha1": "08736031321c27f78a3709123389e380cd81f2cb"
+    }
+  ]
+}
