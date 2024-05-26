@@ -1,0 +1,6 @@
+{
+  "tfjsSpeechCommandsVersion": "0.4.0",
+  "modelName": "SoundPulse",
+  "timeStamp": "2023-12-10T14:29:23.773Z",
+  "wordLabels": ["dull", "resonant", "tym1"]
+}
